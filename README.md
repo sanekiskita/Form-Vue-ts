@@ -1,4 +1,4 @@
-# form vue-ts
+# Form vue-ts
 Работа форм vue + ts
 
 ## Type Support for `.vue` Imports in TS
@@ -32,3 +32,7 @@ npm run build
 ```sh
 npm run lint
 ```
+
+## Worked form
+![image](https://github.com/user-attachments/assets/ab57ecae-ab8c-430f-aee6-c7c66df035a5)
+
